@@ -1,4 +1,6 @@
-{"name": "Malakhova Daria Valerevna"
- "age": 27
- "pets": 4
- "future Desired Salary" : 80000"rub"}
+{
+    "name": "Daria",
+    "age": 27,
+    "pets": 4,
+    "salary": 80000
+}
